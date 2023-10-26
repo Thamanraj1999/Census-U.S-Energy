@@ -1,7 +1,6 @@
 # Census-U.S-Energy
 Energy of Top 10 States in US from 2010 - 2014
 United States (California', 'Texas', 'Florida','Massachusetts', 'Colorado', 'Washington', 'Virginia', 'Hawaii', 'Michigan', 'Alaska')Energy, Census, and GDP 2010-2014
-![image](https://github.com/Thamanraj1999/Census-U.S-Energy/assets/140628569/e0f5688f-6e04-48f6-b67c-f45e6d0e118c)
 ![image](https://github.com/Thamanraj1999/Census-U.S-Energy/assets/140628569/4ec0b2e7-dd83-426d-9cd3-ea98e09187d0)
 ![image](https://github.com/Thamanraj1999/Census-U.S-Energy/assets/140628569/fc05c155-fc2d-4234-9895-4eb501bc8e1f)
 ![image](https://github.com/Thamanraj1999/Census-U.S-Energy/assets/140628569/a9f0c34f-22ed-4ab1-b8e4-a1b499180ab7)
